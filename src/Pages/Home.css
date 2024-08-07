@@ -1,0 +1,38 @@
+.waterlvl h1{
+    text-align: center;
+    padding-top: 120px;
+}
+
+.waterlvl h2{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.precaution{
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 120px;
+}
+
+.pre-image{
+    display: flex;
+    gap: 20px;
+    padding: 40px 0;
+    margin-left: 0px;
+}
+
+.pre-image img{
+    height: auto;
+    width: 625px;
+}
+
+.image{
+    display: flex;
+    flex-direction: column;
+}
+
+.image p{
+    text-align: center;
+    font-weight: 400;
+    padding-top: 20px;
+}

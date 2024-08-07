@@ -1,0 +1,57 @@
+.navbar{
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 100vh;
+   width: 320px;
+   background-color:#fff;
+}
+
+.sidebar_logo{
+    display: grid;
+    place-items: center;
+    height: 120px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Mochiy Pop P one', sans-serif;
+}
+
+.sidebar_menu{
+    position: relative;
+}
+
+.sidebar_menu_item{
+    display: flex;
+    align-items: center;
+    place-content: flex-start;
+    padding: 1rem 3rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #555555;
+    transition: color 0.3s ease-in-out;
+}
+
+.sidebar_menu_item.active{
+    color: #fff;
+}
+
+.sidebar_menu_item.active .sidebar_menu_item_text {
+    margin: auto 0;
+}
+
+.sidebar_menu_item_icon{
+    margin-right: 1rem;
+}
+
+.sidebar_menu_indicator{
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: calc(100% - 40px);
+    border-radius: 10px;
+    background-color: #308efe;
+    z-index: -1;
+    transform: translateX(-50%);
+    transition: 0.3s ease-in-out;
+    padding: 10px 0;
+}
