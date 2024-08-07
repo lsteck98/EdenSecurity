@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EdenSecurity/static/css/main.c17d83f6.css",
+    "main.js": "/EdenSecurity/static/js/main.b192f268.js",
+    "static/js/453.85340472.chunk.js": "/EdenSecurity/static/js/453.85340472.chunk.js",
+    "static/media/eden1.jpg": "/EdenSecurity/static/media/eden1.8959ee8bb952eadfd131.jpg",
+    "static/media/eden2.jpg": "/EdenSecurity/static/media/eden2.11689841997ff8e2ba77.jpg",
+    "index.html": "/EdenSecurity/index.html",
+    "main.c17d83f6.css.map": "/EdenSecurity/static/css/main.c17d83f6.css.map",
+    "main.b192f268.js.map": "/EdenSecurity/static/js/main.b192f268.js.map",
+    "453.85340472.chunk.js.map": "/EdenSecurity/static/js/453.85340472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17d83f6.css",
+    "static/js/main.b192f268.js"
+  ]
+}
